@@ -80,4 +80,14 @@ Explore the production-grade repositories below engineered for high-value ecosys
 
 </div>
 
-```
+---
+
+<div align="center">
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=xxxi101000-cmd&color=00ff66&style=for-the-badge&label=SYSTEM+ACCESSED+BY" alt="Profile Views">
+    <img src="https://img.shields.io/badge/NODE_SYNC-100%25-00e5ff?style=for-the-badge&logo=databricks&logoColor=00e5ff" alt="Node Sync">
+    <img src="https://img.shields.io/badge/SECURITY-MAXIMUM-ff0055?style=for-the-badge&logo=letsencrypt&logoColor=ff0055" alt="Security">
+  </p>
+
+</div>
