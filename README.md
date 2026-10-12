@@ -24,5 +24,8 @@ Check out my pinned repositories below for enterprise-grade implementations:
 
 ---
 
-### 📊 GitHub Stats
-![Ansu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xxxi101000-cmd&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
+### 📊 إحصائيات GitHub
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=xxxi101000-cmd&show_icons=true&theme=radical&hide_border=true" width="100%" />
+</p>
+
