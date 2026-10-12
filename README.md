@@ -1,12 +1,11 @@
-# 👋 Hello, I'm an Enterprise AI & Multi-Agent Systems Architect
+### Hi there, Anas Mohammed 👋
+#### Enterprise AI Architect & Autonomous Systems Engineer
 
-### 🚀 Senior AI Automation & RAG Engineer | Building Autonomous Swarm Ecosystems
-
-I specialize in designing and deploying production-grade, end-to-end Artificial Intelligence architectures. My core focus is eliminating human bottlenecks through autonomous multi-agent swarms, high-performance ETL pipelines, and advanced vector search systems.
+I specialize in designing and deploying production-grade multi-agent AI swarms, automated enterprise workflows, and resilient distributed execution pipelines that eliminate operational bottlenecks for high-value ecosystems.
 
 ---
 
-### 🛠️ Core Technology Stack
+### 🚀 Core Technology Stack
 - **Languages & Core:** Python (AsyncIO, Multiprocessing), TypeScript
 - **AI & LLM Frameworks:** LangChain, LlamaIndex, OpenAI APIs, Hugging Face
 - **Vector Databases:** Pinecone, Qdrant, Milvus, ChromaDB
@@ -24,8 +23,4 @@ Check out my pinned repositories below for enterprise-grade implementations:
 
 ---
 
-### 📊 إحصائيات GitHub
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=xxxi101000-cmd&show_icons=true&theme=radical&hide_border=true" width="100%" />
-</p>
-
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxi101000-cmd&layout=compact&theme=radical" width="100%" /></p>
