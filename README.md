@@ -22,5 +22,3 @@ Check out my pinned repositories below for enterprise-grade implementations:
 - **`distributed-ai-memory-context-manager`**: Hybrid short/long-term memory system resolving LLM context window limits.
 
 ---
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxi101000-cmd&layout=compact&theme=radical" width="100%" /></p>
